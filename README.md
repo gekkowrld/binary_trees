@@ -1,4 +1,8 @@
-# 0x1C.c
+# binary trees
+
+:)
+
+## 0x1C.c
 
 Functions to print binary trees in a pretty way
 
